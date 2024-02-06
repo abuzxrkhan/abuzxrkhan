@@ -22,7 +22,7 @@ Here are some technologies and tools that I work with:
 [![Abuzar Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abuzxrkhan&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/abuzxrkhan)
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/abuzarkhanai/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abuzarkhanai/)
 - Email: abuzxrkhan@gmail.com
 
 ## 🌐 My Portfolio
