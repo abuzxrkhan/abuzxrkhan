@@ -19,19 +19,13 @@ Welcome to my GitHub profile. I'm an undergrad student studying Artificial Intel
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abuzxrkhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abuzxrkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📫 Contact Me
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/abuzarkhanai/)
-- Email: abuzxrkhan@gmail.com
-
 ## 🌐 My Portfolio
 
 Check out my portfolio website [here](https://my-portfolio-website.com).
 
 ## 🤝 Connect with Me
 
-Feel free to connect with me on social media platforms:
-
+[![Gamail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=linkedin&logoColor=white)](abuzxrkhan@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abuzarkhanai) 
 
 ## ❤️ Support
