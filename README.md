@@ -25,7 +25,7 @@ Check out my portfolio website [here](https://my-portfolio-website.com).
 
 ## 🤝 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-Send%20me%20an%20email-blue?style=flat&logo=📧&logoColor=white)](mailto:abuzxrkhan@gmail.com)
+[📧 Email](mailto:abuzxrkhan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abuzarkhanai) 
 
 ## ❤️ Support
